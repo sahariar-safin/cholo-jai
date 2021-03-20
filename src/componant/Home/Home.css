@@ -1,0 +1,22 @@
+.card{
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.card img{
+    width: 200px;
+    margin: 5px auto;
+}
+.card h1{
+    text-decoration: none !important;
+    color: black;
+}
+body{
+    background-image: url('../../images/bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 300vh;
+    height: 1vh;
+  }

@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+    color: black;
+    background-image: none;
+}
+.from-container{
+    margin: 0 auto;
+    padding: 50px;
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.google button{
+    border: 1px solid black;
+    padding: 20px 60px;
+    border-radius: 30px;
+}
+.google{
+    margin: 5px;
+}
